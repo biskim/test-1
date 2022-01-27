@@ -1,0 +1,134 @@
+line height 같이 가로 간격?
+
+포인트 교체 : Insert 
+
+main + ctr + space 
+
+sysout + ctr + space 
+
+scan + ctr + space
+
+ctr + a =전체 선택
+
+f2 = 제목수정
+
+ctr + shft + o = 자동 import
+
+ctrl + shft + f = w : 페이지정렬
+
+window + shft + s : 지정 스크린샷
+
+ctrl + z : 복원
+
+ctrl + y : 다시 되돌리기
+
+alt + 화살표 : 그줄 이동
+
+shift + end = 줄 영역
+int : 정수형
+float : 실수형
+논리형은 앞글자 대문자로 써야함 
+True , False 
+string : 문자형(' or  " 안에 문자를 써야함)[고정된 문자]
+char : 변수형 문자
+
+짝수 코드 : %2==0 
+홀수 코드 : %2==1
+
+% : 나누고 소수점을 뺀 앞자리수만 표시
+
+/* = 여러줄 주석 
+// = 한줄주석
+sum : 은 합계 라는뜻이다.
+while 문:은 지정한 숫자가 거짓이 될때까지 
+
+print("|\_/|")
+print("|q p|   /}")
+print("( 0 )\"\"\"\\")
+print("|\"^\"`    |")
+print("||_/=\\\__|")
+
+\<==  ex " \" "   이렇게 하면 중간의 큰 따옴표는 문자로 인식된다 
+ 
+컨트롤 알트 방향키 = 복사 
+컨트롤 d = 한줄삭제
+컨트롤 방향키 -> 단어 건너띄기
+
+p31 숙제
+
+안될때 괄호체크
+
+-파이썬 
+
+파이썬 깔고 
+파이참 깔기
+
+디렉토리 -> 파일
+ 
+파이썬 복사 컨트롤 d 
+한줄삭제 컨트롤 y
+/  = 나눗셈 실수
+// = 나눗셈 정수
+% = 나눗셈 나머지
+** = 거듭제곱
+
+map을 사용해서 한번에 묶어버림
+ex : A, B = map(int, input().split()) 
+
+split은 출력시 한줄에 여러번 띄어쓰기후 이어쓸수 있게 함 
+
+논리연산자
+and 문장은 하나만 틀려도 False
+or문장은 하나만 틀리면 True
+
+출력옵션 
+sep='-' : '' 사이 모든곳에 -를 자동 작성 
+end= : '' 다음에 밑의 문장을 이어서 출력
+% : '%d년 %d월' % 괄호안에 숫자나 문자 지정 
+.format : ('{}년 {}월'  .format(괄호안에 숫자 문자 지정))
+
+SQL 
+
+CREATE TABLE `User1`(  -> 이런식으로 테이블 뼈대 생성
+`uid` VARCHAR(10) ,
+`age` INT
+); 
+
+
+칼럼명 = 데이터 추가 
+
+INSERT INTO `User1` VALUEs (`예를들면`, `101-2345-1111`, 24);  <-이런식으로 작성
+
+
+Primary key(PK) : 유일 식별자
+unique : '고유키' 중복되지 않는 값 (null값 허용) 
+AUOU_INCREMENT : 순차적 숫자 
+DISTINCT :  중복 제거  FROM `테이블명`
+BETWEEN 100 AND 200 : 100이상 200 이하
+IN() : 괄호안의 데이터 선택 추출 [개별적 구분]
+LIKE '' :  Ex -> '박%' , '문자' OR '문자', '%축구%'
+
+F K : 참조키
+
+ 
+
+HTML
+시프트 알트 방향키 -> 한줄복사
+컨털 시프트 k -> 한줄 삭제
+다수커서 -> 컨털 +알트 방향키로 커서설정
+f12 -> 개발 툴 
+css 컨털 슬러쉬  -> 주석
+
+리눅스 
+로그아웃 - > 컨털 d
+
+https://github.com/chhak/Python {Java}
+강사님 깃허브 주소
+https://github.com/nsaedae (요걸로 함 )
+
+https://github.com/biskim/WEB 
+김병현
+
+백준 코딩 
+
+http://wppremium02.hubweb.net/
